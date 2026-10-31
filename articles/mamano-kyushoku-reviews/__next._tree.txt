@@ -248,4 +248,4 @@
 :HL["https://t.felmat.net/fmimg/R4568K.082819I.B1357443","image"]
 :HL["https://t.felmat.net/fmimg/R4568K.L82817H.B1357443","image"]
 :HL["https://t.felmat.net/fmimp/R4568K.O82687A.B1357443","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"mamano-kyushoku-reviews","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"3Nu0jP84gczXya4yAbmNi"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"mamano-kyushoku-reviews","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"hAt9dj_P8LTf9-jjP50Ze"}
